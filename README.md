@@ -1,4 +1,4 @@
-![CI](https://github.com/DevC-Kingston/team12/workflows/Node.js%20CI/badge.svg)
+![CI](https://github.com/DevC-Kingston/team12/workflows/CI/badge.svg)
 
 # Chefs' Mate
 
