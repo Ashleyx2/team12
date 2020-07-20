@@ -10,8 +10,9 @@
         "lint": "eslint . --ignore-path .gitignore .",
         "prettier": "prettier --ignore-path .gitignore \"**/*.+(js|json)\"",
         "format": "npm run prettier -- --write",
+        "build": "",
         "check-format": "npm run prettier -- --list-different",
-        "validate": "npm-run-all --parallel check-format lint test build",
+        "validate": "npm-run-all --parallel check-format lint test",
         "setup": "npm install && npm run validate"
     },
     "repository": {
