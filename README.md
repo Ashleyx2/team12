@@ -9,16 +9,17 @@ https://devpost.com/software/rewise-ai-powered-revision-bot)
 
 ## Inspiration
 
-Add your Team’s Inspiration for the Chatbot
+The inspiration for our chatbot comes from the desire to solve a daily common problem - deciding what to eat. Though it is a simple problem, it is very relatable. Having easy access to a wide range of recipes based on the ingredients available to you and the type of cuisine you're in the mood for will speed up the decision-making process and have you cooking in no time. Out of this desire to help fellow experimental, open-minded food-lovers, Chefs' Mate was born.
 
 ## What it does
 
-Add a short description
+Chefs' Mate is a messenger chatbot that will generate a list of delicious recipes that a user can make given their ingredients at hand. It takes into account certain user preferences and restrictions such as allergies, diet, and nutritional needs and will produce appropriate options. Chefs' Mate is literally your very own kitchen companion, guiding you along the journey to food heaven.
 
 ## List your Chatbot’s features and use cases
 
-1. 1
-1. 2
+1. The chatbot can provide a plethora of recipes based on a user's input of ingredients
+1. It takes into account user preferences and restrictions 
+(To be edited, I sound like a broken record)
 
 ## How we built it
 
@@ -51,8 +52,10 @@ Product Roadmap - next features for example
 
 ## Built With - provide the tech stack used
 
--   example1
--   example2
+-   node.js
+-   express
+-   mongodb
+-   messenger
 
 ## Try it out
 
